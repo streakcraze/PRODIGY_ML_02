@@ -3,7 +3,7 @@
 ## Summarizing the k-means algorithm
 
 while true:
-  <br>create k clusters by assigning each example to closest centroid
-  <br>create k new centroids by averaging examples in each cluster
-  <br>if centroids don't change:
-    <br>break
+&ensp;<br>create k clusters by assigning each example to closest centroid
+&ensp;<br>create k new centroids by averaging examples in each cluster
+&ensp;<br>if centroids don't change:
+&emsp;<br>break
