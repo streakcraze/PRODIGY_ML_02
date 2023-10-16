@@ -22,11 +22,11 @@ while true:
   use pandas dataframe to view the dataset's quantity, available features, datatypes, and check for null values
 3. Data Visualization
   (a) Distribution plots (histplots)
-checking densities of age, annual income, and spending
+    checking densities of age, annual income, and spending
   (b) Categorical plots (violinplots)
-checking densities of age, annual income, and spending across genders
+    checking densities of age, annual income, and spending across genders
   (c) Relational plots (scatterplot)
-checking variation of spending with annual income
+    checking variation of spending with annual income
 4. Finding Optimum no. of clusters
   use elbow method to find optimal no. of groups the model can create based on:
   (a) age and spending
