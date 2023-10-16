@@ -16,20 +16,20 @@ while true:
 # Notebook Summary
 
 1. Importing necessary libraries
-set os.environ["OMP_NUM_THREADS"] = '1' to avoid multiple warnings in latter stages
+<br>set os.environ["OMP_NUM_THREADS"] = '1' to avoid multiple warnings in latter stages
 2. Importing and viewing the dataset
-use pandas dataframe to view the dataset's quantity, available features, datatypes, and check for null values
+<br>use pandas dataframe to view the dataset's quantity, available features, datatypes, and check for null values
 3. Data Visualization
 - Distribution plots (histplots)
-checking densities of age, annual income, and spending
+<br>checking densities of age, annual income, and spending
 - Categorical plots (violinplots)
-checking densities of age, annual income, and spending across genders
+<br>checking densities of age, annual income, and spending across genders
 - Relational plots (scatterplot)
-checking variation of spending with annual income
+<br>checking variation of spending with annual income
 4. Finding Optimum no. of clusters
-use elbow method to find optimal no. of groups the model can create based on:
+<br>use elbow method to find optimal no. of groups the model can create based on:
 - age and spending
 - annual income and spending
 - age, annual income, and spending
 5. Plotting the clusters using optimal k
-use 2d and 3d plots to visualize clusters using optimal characteristics obtained in previous step
+<br>use 2d and 3d plots to visualize clusters using optimal characteristics obtained in previous step
